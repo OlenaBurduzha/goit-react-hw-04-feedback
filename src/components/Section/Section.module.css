@@ -1,0 +1,13 @@
+.section{
+    display: block;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border: 2px solid rgb(163, 194, 242);
+    }
+    
+    .title {
+        font-weight:bold;
+        font-size: 25px;
+    }

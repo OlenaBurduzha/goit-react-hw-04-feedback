@@ -1,0 +1,22 @@
+.optionBtn{
+    display: inline-block;
+    width: 80px;
+    border-radius: 5px;
+    height: 30px;
+    cursor: pointer;
+    text-align: center;
+    background-color: transparent;
+    padding: 0;
+    background-color: rgb(149, 163, 222);
+    color: rgb(24, 6, 71);
+    text-transform:uppercase;
+    font-weight: bold;
+
+}
+.optionBtn:not(:last-child) {
+    margin-right: 20px;
+}
+.optionBtn:hover {
+    color: rgba(255, 255, 255, 0.9);
+    background-color: rgb(52, 47, 129);
+}
